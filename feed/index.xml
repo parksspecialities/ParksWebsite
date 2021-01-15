@@ -11,7 +11,7 @@
 	<title>Parks Specialities Pvt Ltd</title>
 	<atom:link href="http://localhost/ParksWebsiteNonSTatic/feed/" rel="self" type="application/rss+xml" />
 	<link>https://parksspecialities.github.io/ParksWebsite</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Fri, 15 Jan 2021 07:59:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -29,9 +29,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://parksspecialities.github.io/ParksWebsite/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://parksspecialities.github.io/ParksWebsite/2021/01/15/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://parksspecialities.github.io/ParksWebsite">Parks Specialities Pvt Ltd</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://parksspecialities.github.io/ParksWebsite/2021/01/15/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://parksspecialities.github.io/ParksWebsite">Parks Specialities Pvt Ltd</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://parksspecialities.github.io/ParksWebsite/2021/01/15/hello-world/feed/</wfw:commentRss>
