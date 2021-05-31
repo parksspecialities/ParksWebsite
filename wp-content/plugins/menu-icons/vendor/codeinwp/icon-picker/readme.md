@@ -81,3 +81,5 @@ add_filter( 'icon_picker_icon_type_stylesheet_uri', 'myprefix_font_awesome_css_f
 
 ### 0.1.0 ###
 * Initial
+
+

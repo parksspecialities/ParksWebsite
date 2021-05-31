@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script>
 
     N2R('documentReady', function ($) {
 
@@ -23,7 +23,7 @@
             if ($(e.target).hasClass('n2_ss_slider_publish__option_code')) {
                 try {
                     e.clipboardData.setData('text/plain', window.getSelection().toString());
-                    e.clipboardData.setData('text/html', '<div>' + window.getSelection().toString() + '</div>');
+                    e.clipboardData.setData('text/html', '<div>' + window.getSelection().toString() + '<\/div>');
                     e.preventDefault();
                 } catch (e) {
 

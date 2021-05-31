@@ -58,7 +58,9 @@ Copy (and customize) and include the `menu-item-custom-fields-example.php` file 
 * Improve walker class loader
 
 ### 0.1.1 ###
-* Move custom fields up (before `<p.field-move />`)
+* Move custom fields up (before `<p.field-move></p.field-move>`)
 
 ### 0.1.0 ###
 * Initial public release
+
+
